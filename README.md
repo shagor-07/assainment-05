@@ -31,7 +31,7 @@ It makes building React components easier.
 
 ### 6. What is conditional rendering? Show one place you used it.
 
-= Conditional rendering means showing different UI based on a condition. For example, showing an empty stack message when no technology is selected.
+= Conditional rendering in React means displaying different UI elements based on a condition. Where I used it: I used conditional rendering to show a welcome message when a user is logged in and a login message when they are not logged in.
 
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
