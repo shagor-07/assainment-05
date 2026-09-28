@@ -35,4 +35,4 @@ It makes building React components easier.
 
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
-= A parent passes data to a child using props. The child can send data back by calling a function passed through props.
+= Correct Answer: Pass data from parent to child using props, and send data from child to parent using a callback function passed as a prop.
