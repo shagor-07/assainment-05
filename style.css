@@ -1,7 +1,7 @@
 :root {
     --brand-gradient: linear-gradient(
         90deg,
-        #ff641c,
+        #ff651e,
         #e52c83,
         #7b2cff
     );
@@ -19,7 +19,7 @@ html {
 
 body {
     font-family: "Inter", Arial, sans-serif;
-    color: #101828;
+    color: #1d2639;
     background: #ffffff;
 }
 
@@ -67,7 +67,7 @@ button {
 }
 
 .logo b {
-    color: #d82b86;
+    color: #f496c8;
 }
 
 .logo-box {
